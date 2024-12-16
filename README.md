@@ -4,4 +4,4 @@
 <p><strong>Username :</strong> user@example.com</p>
 <p><strong>Password :</strong> mypassword123</p>
 
-<img src="https://raw.githubusercontent.com/kimseokjin6519/user-admin-preview/refs/heads/main/preview2.png" alt="Google Admin Console Preview">
+<img src="https://raw.githubusercontent.com/kimseokjin6519/user-admin-preview/refs/heads/main/preview.png" alt="Google Admin Console Preview">
